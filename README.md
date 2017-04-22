@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Node
+		* Node allows coding with JavaScript on the server-side.
 	* Chrome's V8 Engine
+		* Chrome's V8 Engine is an extension of C++ which implements a JavaScript engine.
 	* GET request
+		* A `GET` request is sent from the client to the server to request data.
 	* Server
+		* A server is a place where a website's runtime code exists and executes.
 	* express
+		* Express is a framework built on Node. Express is to Node as React is to JavaScript.
 
 
 2. Fork and clone this repo.
